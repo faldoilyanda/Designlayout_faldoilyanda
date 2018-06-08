@@ -1,56 +1,49 @@
-#design{
-    position: absolute;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 48pt;
-    margin-top: -50px;
-    margin-left: 15px;
+body
+{
+    font-family: 'Noto Sans', sans-serif;
+    text-align: justify;
+}
 
+
+@font-face
+{
+    font-family: Noto;
+    src: url('https://fonts.googleapis.com/css?family=Noto+Sans')
 }
-#layout{
-    position: absolute;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-    font-size: 68pt;
-    margin-top: -180px;
-    margin-left: -5px;
+
+.gray
+{
+    color: #ffd1a6
 }
-#pro{
-    position: absolute;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(175, 6, 6);
-    font-size: 50pt;
-    margin-top: -100px;
-    margin-left: -5px;
+
+.red
+{
+   color:  #f0a2a2
 }
-#lorem1{
-    position: absolute;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-                    
-    margin-top: -30px;
+
+.Noto
+{
+    font-family: 'Noto Sans', sans-serif;
 }
-#lorem2{
-    position: absolute;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-                   
-    margin-top: -30px;
-    margin-left: 120px;
+
+.x
+{
+    line-height: 0.4;
 }
-#lorem3{
-    position: absolute;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-                   
-    margin-top: 140px;
-    margin-left: 225px;
+
+.top
+{
+    margin-top: -650px; 
+    margin-left: 400px;
 }
-#box{
-    position: absolute;
-    margin-top: 80px;
-    margin-left: 120px;
+
+.bot
+{
+    margin-top:-270px; 
+    margin-left: 400px;
 }
-#is{
-    font-family: 'Roboto Slab';
-    font-weight: initial;
-}
-table{
-    background-color: rgb(255, 192, 190);
+
+.boxrow
+{
+    width: 250px
 }
