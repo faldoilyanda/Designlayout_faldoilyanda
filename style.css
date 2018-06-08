@@ -1,0 +1,56 @@
+#design{
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48pt;
+    margin-top: -50px;
+    margin-left: 15px;
+
+}
+#layout{
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 68pt;
+    margin-top: -180px;
+    margin-left: -5px;
+}
+#pro{
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(175, 6, 6);
+    font-size: 50pt;
+    margin-top: -100px;
+    margin-left: -5px;
+}
+#lorem1{
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    
+    margin-top: -30px;
+}
+#lorem2{
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                   
+    margin-top: -30px;
+    margin-left: 120px;
+}
+#lorem3{
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                   
+    margin-top: 140px;
+    margin-left: 225px;
+}
+#box{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 120px;
+}
+#is{
+    font-family: 'Roboto Slab';
+    font-weight: initial;
+}
+table{
+    background-color: rgb(255, 192, 190);
+}
