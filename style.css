@@ -11,6 +11,11 @@ body
     src: url('https://fonts.googleapis.com/css?family=Noto+Sans')
 }
 
+
+.pink{
+    color: #e6004c
+}
+
 .gray
 {
     color: #ec7e7e
@@ -29,6 +34,7 @@ body
 .x
 {
     line-height: 0.4;
+    margin-top: 170px;
 }
 
 .top
