@@ -11,19 +11,20 @@ body
     src: url('https://fonts.googleapis.com/css?family=Noto+Sans')
 }
 
-
-.pink{
-    color: #e6004c
-}
-
 .gray
 {
-    color: #ec7e7e
+    color: #f4f6ff
+}
+.gray1
+{
+    color: #f4f6ff;
+    margin-left: -100px;
+    
 }
 
 .red
 {
-   color:  #ffb3b3
+   color:  #ff7c8d
 }
 
 .Noto
@@ -34,12 +35,11 @@ body
 .x
 {
     line-height: 0.4;
-    margin-top: 170px;
 }
 
 .top
 {
-    margin-top: -650px; 
+    margin-top: -800px; 
     margin-left: 400px;
 }
 
@@ -53,3 +53,9 @@ body
 {
     width: 250px
 }
+
+p {
+}
+
+
+
